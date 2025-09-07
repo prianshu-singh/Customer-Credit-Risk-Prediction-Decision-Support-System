@@ -2,7 +2,7 @@
 
 A machine learning + AI-powered decision analytics project that predicts **customer credit risk**, provides **real-time alerts**, and generates **business insights** through an interactive dashboard.  
 
-This project was inspired by the **Decision Analyst role at Barclays**, focusing on **data-driven decision making, advanced analytics, and risk management**.
+This project was inspired by the **Decision Analyst role **, focusing on **data-driven decision making, advanced analytics, and risk management**.
 
 ---
 
