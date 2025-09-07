@@ -49,5 +49,3 @@ This project was inspired by the **Decision Analyst role at Barclays**, focusing
 ├── utils/ # Helper scripts (data cleaning, alerts, monitoring)
 ├── README.md # Project documentation
 
-yaml
-Copy code
